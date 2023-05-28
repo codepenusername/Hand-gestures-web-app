@@ -1,0 +1,37 @@
+body {
+  color: white;
+  background: #1c03f8;
+}
+span {
+  font-size: 30px;
+}
+#camera,
+#result {
+  border: 3px dashed black;
+  width: 350px;
+  height: 300px;
+}
+#result_hand_gesture_name,
+#result_hand_gesture_name2 {
+  color: black;
+}
+.hand_gesture_name {
+  font-size: 39px;
+}
+.hand_gesture {
+  font-size: 48px;
+}
+
+.heading {
+  font-size: 20px;
+  font-family: "Rubik 80s Fade", cursive;
+  border-radius: 20px;
+}
+
+p {
+  color: lime;
+}
+
+h4 {
+  color: orange;
+}
